@@ -1,0 +1,5 @@
+android/libs/
+android/obj/
+src/build/
+bin/
+ipv6_addr
